@@ -1,0 +1,82 @@
+.navbar-brand
+{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    text-align: center;
+    margin:0 auto;
+	font-weight: 700;
+  	text-transform: uppercase;
+  	color: #6C7A89;
+  	font-size: 16px;
+  	font-family: Arial, sans-serif !important;
+}
+.navbar-toggle {
+    z-index:3;
+}
+
+.line {
+	margin: 20px;
+	padding-bottom: 30px;
+	border-bottom: 1px solid #ddd;
+}
+
+.box {
+	padding: 10px;
+	position: relative;
+	overflow: hidden;
+	vertical-align: middle;
+}
+.border {
+	margin: 10px;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+}
+.box .box-title {
+  margin: 10px 0 10px 0;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  color: #6C7A89;
+  font-size: 14px;
+  font-family: Arial, sans-serif !important;
+}
+.box-title {
+  margin: 10px 0 10px 0;
+  font-weight: 700;
+  text-align: left;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  color: #6C7A89;
+  font-size: 14px;
+  font-family: Arial, sans-serif !important;
+}
+
+.flex-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.text {
+	font-weight: 700;
+  	text-align: center;
+  	text-transform: uppercase;
+  	color: #6C7A89;
+  	font-family: Arial, sans-serif !important;
+}
+
+select {
+	font-weight: 700;
+	text-align: center;
+	text-align-last: center;
+	text-transform: uppercase;
+	color: #6C7A89;
+	font-family: Arial, sans-serif !important;	
+}
+option {
+	text-align: right;
+}

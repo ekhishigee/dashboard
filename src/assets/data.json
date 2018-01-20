@@ -1,0 +1,178 @@
+{
+	"DashBoard" : {
+		"Section1" : [
+			{
+				"name" : "Ази",
+				"value" : "30",
+				"countries": [
+					{
+						"name": "Монгол"
+					},
+					{
+						"name": "Солонгос"
+					},
+					{
+						"name": "Япон"
+					},
+					{
+						"name": "Хятад"
+					},
+					{
+						"name": "Сингапур"
+					}
+				],
+				"hotels" : [
+					{
+						"name" : "Баянгол зочид буудал"
+					},
+					{
+						"name" : "Улаанбаатар зочид буудал"
+					},
+					{
+						"name" : "Чингис хаан зочид буудал"
+					},
+					{
+						"name" : "Рамада зочид буудал"
+					},
+					{
+						"name" : "Сүнжин гранд зочид буудал"
+					}
+				]
+			},
+			{
+				"name": "Europe",
+				"value": "50",
+				"countries" : [
+					{
+						"name": "Russian"
+					},
+					{
+						"name": "Dani"
+					},
+					{
+						"name": "Dani"
+					},
+					{
+						"name": "Dani"
+					},
+					{
+						"name": "Dani"
+					},
+				],
+				"hotels" : [
+					{
+						"name": "Five stars hotel"
+					},
+					{
+						"name": "Nine stars hotel"
+					},
+					{
+						"name": "Nine stars hotel"
+					},
+					{
+						"name": "Nine stars hotel"
+					},
+					{
+						"name": "Nine stars hotel"
+					}
+				]
+			}
+		],
+		"Section2" : [
+			{
+				"country" : "Хятад",
+				"travelType" : [
+					{
+						"type" : "Гэр бүл",
+						"value" : "5"
+					},
+					{
+						"type" : "Бизнес",
+						"value" : "50"
+					},
+					{
+						"type" : "Бал сар",
+						"value" : "10"
+					},
+					{
+						"type" : "Хувийн",
+						"value" : "30"
+					},
+					{
+						"type" : "Бусад",
+						"value" : "26"
+					}
+				],
+				"todo" : [
+					{
+						"name" : "Музей үзэх",
+						"value" : "40",
+						"url" : "museum.png"
+					},
+					{
+						"name" : "Бөх барилдах",
+						"value" : "50",
+						"url" : "wrestle.png"
+					}
+				]
+			},
+			{
+				"country" : "Монгол",
+				"travelType" : [
+					{
+						"type" : "Гэр бүл",
+						"value" : "5"
+					},
+					{
+						"type" : "Бизнес",
+						"value" : "10"
+					},
+					{
+						"type" : "Бал сар",
+						"value" : "20"
+					},
+					{
+						"type" : "Хувийн",
+						"value" : "30"
+					},
+					{
+						"type" : "Бусад",
+						"value" : "56"
+					}
+				],
+				"todo" : [
+					{
+						"name" : "Музей үзэх",
+						"value" : "90",
+						"url" : "museum.jpg"
+					},
+					{
+						"name" : "Айраг уух",
+						"value" : "80",
+						"url" : "airag.jpg"
+					},
+					{
+						"name" : "Морь унах",
+						"value" : "45",
+						"url" : "horse.jpg"
+					},
+					{
+						"name" : "Чингис хаан цогцолбор",
+						"value" : "15",
+						"url" : "chingis.jpg"
+					},
+					{
+						"name" : "Малчин айлд зочлох",
+						"value" : "67",
+						"url" : "country.jpg"
+					},
+					{
+						"name" : "Бөх барилдах",
+						"value" : "71",
+						"url" : "wrestle.jpg"
+					}
+				]
+			}
+		]
+	}
+}
